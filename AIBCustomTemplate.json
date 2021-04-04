@@ -48,7 +48,7 @@
             "type": "PlatformImage",
                 "publisher": "microsoftWindowsDesktop",
                 "offer": "Windows-10",
-                "sku": "20h2-evd-o365pp",
+                "sku": "20h2-evd",
                 "version": "latest"
             
         },
